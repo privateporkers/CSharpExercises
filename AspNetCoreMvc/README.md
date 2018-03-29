@@ -1,6 +1,6 @@
-# AspNetCoreKata
+# AspNetCoreMvc
 
-Engage with ASP.NET Core
+Engage with ASP.NET Core MVC
 
 ## First Step
 
