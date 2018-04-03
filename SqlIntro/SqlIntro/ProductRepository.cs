@@ -17,6 +17,7 @@ namespace SqlIntro
         {
             _connectionString = connectionString;
         }
+
         /// <summary>
         /// Reads all the products from the products table
         /// </summary>
