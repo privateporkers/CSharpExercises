@@ -1,5 +1,6 @@
 using System;
 using Xunit;
+using GitKata.Shared;
 
 namespace GitKata.Test
 {
@@ -8,7 +9,12 @@ namespace GitKata.Test
         [Fact]
         public void Test()
         {
+            // Arrange
+            var kata = new RandomKata();
 
+            // Act
+
+            // Assert
         }
     }
 }

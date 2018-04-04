@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using KataBase;
+using GitKata.Shared;
 
 namespace GitKata
 {
